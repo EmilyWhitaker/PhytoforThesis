@@ -1,0 +1,55 @@
+"sample_id","sample_date","division","class_","order_","family","genus","species","coloniality","total_biovolume_cubic_um_per_ml_","relative_total_biovolume","month","year"
+"TB",2020-01-29,"Chlorophyta","Prasinophyceae","Prasinocladales","Pedinomonadaceae","Monomastix","minuta","Cell-Motile",1396.8624,0.0054267,1,2020
+"TB",2020-01-29,"Chrysophyta","Chrysophyceae","Ochromonadales","Ochromonadaceae","Uroglena",NA,"Colonial-Motile",183.2949,0.00071209,1,2020
+"TB",2020-01-29,"Chrysophyta","Chrysophyceae",NA,NA,NA,NA,"Cell-Motile",6178.5766,0.0240033,1,2020
+"TB",2020-01-29,"Haptophyta","Prymnesiophyceae","Prymnesiales","Chromulinaceae","Chrysochromulina","parva","Cell-Motile",85.3787,0.00033169,1,2020
+"TB",2020-01-29,"Chlorophyta","Chlorophyceae","Volvocales","Chlamydomonadaceae","Chlamydomonas",NA,"Cell-Motile",7072.735,0.02747703,1,2020
+"TB",2020-01-29,"Chlorophyta","Chlorophyceae","Chlorococcales","Chlorococcaceae",NA,NA,"Cell-Nonmotile",134.5124,0.00052257,1,2020
+"TB",2020-01-29,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Cryptomonas","erosa","Cell-Motile",210265.4289,0.81686508,1,2020
+"TB",2020-01-29,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Rhodomonas","minuta","Cell-Motile",266.069,0.00103366,1,2020
+"TB",2020-01-29,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Rhodomonas","minuta","Cell-Motile",378.4089,0.00147009,1,2020
+"TB",2020-01-29,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","elachista","Colonial-Nonmotile",219.5068,0.00085277,1,2020
+"TB",2020-01-29,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","delicatissima","Colonial-Nonmotile",23.6506,9.188e-05,1,2020
+"TB",2020-01-29,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Synechocystis",NA,"Cell-Nonmotile",29.932,0.00011628,1,2020
+"TB",2020-01-29,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Synechococcus","elongatus","Cell-Nonmotile",620.8375,0.00241191,1,2020
+"TB",2020-01-29,"Euglenophyta","Euglenophyceae","Euglenales","Euglenaceae","Euglena",NA,"Cell-Motile",4635.5125,0.01800861,1,2020
+"TB",2020-01-29,"Pyrrhophyta","Dinophyceae","Gymnodinales","Gymnodiniaceae","Gymnodinium","sp. 1","Cell-Motile",24123.5851,0.09371828,1,2020
+"TB",2020-01-29,"Pyrrhophyta","Dinophyceae","Gymnodinales","Gymnodiniaceae","Gymnodinium","sp. 2","Cell-Motile",1702.8413,0.00661541,1,2020
+"TB",2020-01-29,"Chlorophyta","Chlorophyceae","Chlorococcales","Oocystaceae","Monoraphidium","capricornutum","Cell-Nonmotile",88.202,0.00034266,1,2020
+"TB",2020-02-15,"Chlorophyta","Prasinophyceae","Prasinocladales","Pedinomonadaceae","Monomastix","minuta","Cell-Motile",1044.6534,0.00696057,2,2020
+"TB",2020-02-15,NA,"Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Rhodospirillum","rubrum","Cell-Nonmotile",14.3681,9.574e-05,2,2020
+"TB",2020-02-15,"Chrysophyta","Chrysophyceae","Ochromonadales","Synuraceae","Synura",NA,"Colonial-Motile",664.1082,0.00442498,2,2020
+"TB",2020-02-15,"Chrysophyta","Chrysophyceae",NA,NA,NA,NA,"Cell-Motile",29750.8521,0.19823109,2,2020
+"TB",2020-02-15,"Chlorophyta","Chlorophyceae","Volvocales","Chlamydomonadaceae","Chlamydomonas",NA,"Cell-Motile",11921.0055,0.07943013,2,2020
+"TB",2020-02-15,"Chlorophyta","Chlorophyceae","Chlorococcales","Chlorococcaceae",NA,NA,"Cell-Nonmotile",63.8567,0.00042548,2,2020
+"TB",2020-02-15,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Cryptomonas","erosa","Cell-Motile",92438.7386,0.61592294,2,2020
+"TB",2020-02-15,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Rhodomonas","minuta","Cell-Motile",56.7613,0.0003782,2,2020
+"TB",2020-02-15,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","elachista","Colonial-Nonmotile",239.4619,0.00159554,2,2020
+"TB",2020-02-15,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","delicatissima","Colonial-Nonmotile",14.1904,9.455e-05,2,2020
+"TB",2020-02-15,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanothece","nidulans","Colonial-Nonmotile",42.5711,0.00028365,2,2020
+"TB",2020-02-15,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Synechocystis",NA,"Cell-Nonmotile",5.9864,3.989e-05,2,2020
+"TB",2020-02-15,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Synechococcus","elongatus","Cell-Nonmotile",74.4995,0.00049639,2,2020
+"TB",2020-02-15,"Euglenophyta","Euglenophyceae","Euglenales","Euglenaceae","Euglena",NA,"Cell-Motile",12396.6843,0.08259959,2,2020
+"TB",2020-02-15,"Pyrrhophyta","Dinophyceae","Gymnodinales","Gymnodiniaceae","Gymnodinium","sp. 2","Cell-Motile",1021.7048,0.00680766,2,2020
+"TB",2020-02-15,"Miscellaneous",NA,NA,NA,NA,NA,"Cell-Nonmotile",266.0689,0.00177283,2,2020
+"TB",2020-02-15,"Chlorophyta","Chlorophyceae","Chlorococcales","Oocystaceae","Monoraphidium","capricornutum","Cell-Nonmotile",66.1515,0.00044077,2,2020
+"TB",2020-03-07,"Chlorophyta","Prasinophyceae","Prasinocladales","Pedinomonadaceae","Monomastix","minuta","Cell-Motile",1479.3448,0.00405228,3,2020
+"TB",2020-03-07,NA,"Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Rhodospirillum","rubrum","Cell-Nonmotile",29.2677,8.017e-05,3,2020
+"TB",2020-03-07,"Bacillariophyta","Fragilariophyceae","Fragilariales","Fragilariaceae","Asterionella","formosa","Colonial-Nonmotile",3231.8612,0.00885284,3,2020
+"TB",2020-03-07,"Bacillariophyta","Fragilariophyceae","Tabellariales","Tabellariaceae","Tabellaria","flocculosa","Complex-Filament",18307.1047,0.05014755,3,2020
+"TB",2020-03-07,"Chrysophyta","Chrysophyceae",NA,NA,NA,NA,"Cell-Motile",42956.2622,0.11766751,3,2020
+"TB",2020-03-07,"Chrysophyta","Chrysophyceae",NA,NA,NA,NA,"Cell-Nonmotile",50580.4382,0.13855196,3,2020
+"TB",2020-03-07,"Chlorophyta","Chlorophyceae","Volvocales","Chlamydomonadaceae","Chlamydomonas",NA,"Cell-Motile",48495.9692,0.1328421,3,2020
+"TB",2020-03-07,"Chlorophyta","Chlorophyceae","Volvocales","Chlamydomonadaceae","Chlorogonium",NA,"Cell-Nonmotile",1634.7277,0.00447791,3,2020
+"TB",2020-03-07,"Chlorophyta","Chlorophyceae","Chlorococcales","Oocystaceae","Oocystis","parva","Colonial-Nonmotile",681.1366,0.0018658,3,2020
+"TB",2020-03-07,"Chlorophyta","Chlorophyceae","Chlorococcales","Chlorococcaceae","Schroederia","judayi","Cell-Nonmotile",51.0851,0.00013993,3,2020
+"TB",2020-03-07,"Chlorophyta","Chlorophyceae","Chlorococcales","Chlorococcaceae",NA,NA,"Cell-Nonmotile",620.8273,0.00170059,3,2020
+"TB",2020-03-07,"Cryptophyta","Cryptophyceae","Cryptomonadales","Cryptomonadaceae","Cryptomonas","erosa","Cell-Motile",164688.881,0.45112236,3,2020
+"TB",2020-03-07,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","elachista","Colonial-Nonmotile",89.7985,0.00024598,3,2020
+"TB",2020-03-07,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Aphanocapsa","delicatissima","Colonial-Nonmotile",24.8332,6.802e-05,3,2020
+"TB",2020-03-07,"Cyanophyta","Cyanophyceae","Chroococcales","Chroococcaceae","Synechococcus","elongatus","Cell-Nonmotile",388.0241,0.00106289,3,2020
+"TB",2020-03-07,"Euglenophyta","Euglenophyceae","Euglenales","Euglenaceae","Euglena",NA,"Cell-Motile",24418.7437,0.0668888,3,2020
+"TB",2020-03-07,"Pyrrhophyta","Dinophyceae","Gymnodinales","Gymnodiniaceae","Gymnodinium","sp. 2","Cell-Motile",893.9917,0.00244886,3,2020
+"TB",2020-03-07,"Miscellaneous",NA,NA,NA,NA,NA,"Cell-Nonmotile",383.1393,0.00104951,3,2020
+"TB",2020-03-07,"Miscellaneous",NA,NA,NA,NA,NA,"Cell-Motile",85.1421,0.00023322,3,2020
+"TB",2020-03-07,"Bacillariophyta","Bacillariophyceae","Eunotiales","Eunotiaceae","Actinella","punctata","Cell-Nonmotile",6024.1911,0.0165017,3,2020
